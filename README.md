@@ -7,7 +7,7 @@ Find the UI Design documentation via Figma [here](https://www.figma.com/file/JXx
 I wanted to use a simple REST API that was reliable , versatile and simple. PoetryDB is perfect for this requirement
 
 ### [Unsplash](https://unsplash.com/developers)
-The Unsplash developers REST api is used to provide art work to accompany every poem generated.
+The Unsplash developers REST api is used to provide artwork to accompany every poem generated.
 
 <p align="center">
 <img src="https://i.imgur.com/K4LRgAB.gif">
